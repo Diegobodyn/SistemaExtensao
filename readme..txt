@@ -1,1 +1,1 @@
-sistema de extensão irá permitir o aluno imprimir seu certificado
+sistema de extensão irá permitir o aluno imprimir seu certificado funcionou
