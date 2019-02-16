@@ -1,1 +1,1 @@
-sistema
+sistema de extensão
